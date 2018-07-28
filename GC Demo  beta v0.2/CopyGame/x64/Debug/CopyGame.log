@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/6/13 20:11:46。
+     1>项目“D:\Visual Studio 2015  C++ Projects\GC Demo  beta v0.2\CopyGame\CopyGame.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“x64\Debug\GC Game.tlog\unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         CopyGame.vcxproj -> D:\Visual Studio 2015  C++ Projects\GC Demo  beta v0.2\x64\Debug\GC Game.exe
+         CopyGame.vcxproj -> D:\Visual Studio 2015  C++ Projects\GC Demo  beta v0.2\x64\Debug\GC Game.pdb (Full PDB)
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\GC Game.tlog\unsuccessfulbuild”。
+         正在对“x64\Debug\GC Game.tlog\GC Game.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Visual Studio 2015  C++ Projects\GC Demo  beta v0.2\CopyGame\CopyGame.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.40
